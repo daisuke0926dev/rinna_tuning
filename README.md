@@ -1,0 +1,2 @@
+# rinna_tuning
+rinnaをファインチューニングしてみます
